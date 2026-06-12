@@ -18,23 +18,23 @@ I'm an aspiring AI/ML engineer with hands-on experience in full-stack developmen
 
 ### Languages
 - **Python** (Fluent) - Primary language for development and ML
-- **C++** - DSA & Competitive Programming
+- **C++** - DSA
 - **HTML/CSS** (Basic) - Web Development
 - **SQL** (Intermediate) - Database Management
 
 ### Python Libraries & Frameworks
 - **Data Science:** NumPy, Pandas, Scikit-Learn
-- **Deep Learning:** TensorFlow, PyTorch, Keras
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Web:** Flask, Django
-- **Others:** Requests, Beautiful Soup, OpenCV
+- **Deep Learning:** PyTorch
+- **Visualization:** Matplotlib, Seaborn
+- **Web:** Flask
+- **Others:** OpenCV (Basic)
 
 ### Tools & Platforms
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
 - VS Code
-- MySQL/PostgreSQL
+- MySQL
 
 ## 📌 Featured Projects
 
@@ -79,9 +79,9 @@ My aspiration is to become a skilled AI/ML engineer who can develop innovative s
 ## 📫 Get in Touch
 
 - **GitHub:** [@r4gefr](https://github.com/r4gefr)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](kingvik.sh19@gmail.com)
 - **LinkedIn:** [Add your LinkedIn](https://linkedin.com/in/vikanshu-sharma)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Instagram:** [@yourhandle](https://www.instagram.com/vvvikxnshu/)
 
 ## 🤝 Let's Collaborate
 
@@ -101,4 +101,3 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
   ⭐ If you find my projects helpful, please star them! Your support motivates me to keep building amazing things.
 </div>
 
-**"The best way to predict the future is to invent it." — Alan Kay** 💡
