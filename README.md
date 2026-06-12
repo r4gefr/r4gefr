@@ -79,9 +79,9 @@ My aspiration is to become a skilled AI/ML engineer who can develop innovative s
 ## 📫 Get in Touch
 
 - **GitHub:** [@r4gefr](https://github.com/r4gefr)
-- **Email:** [your.email@example.com](kingvik.sh19@gmail.com)
-- **LinkedIn:** [Add your LinkedIn](https://linkedin.com/in/vikanshu-sharma)
-- **Instagram:** [@yourhandle](https://www.instagram.com/vvvikxnshu/)
+- **Email:** [kingvik.sh19@gmail.com](kingvik.sh19@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/vikanshu-sharma](https://linkedin.com/in/vikanshu-sharma)
+- **Instagram:** [@vvvikxnshu](https://www.instagram.com/vvvikxnshu)
 
 ## 🤝 Let's Collaborate
 
