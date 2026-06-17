@@ -10,7 +10,6 @@ I'm an aspiring AI/ML engineer with hands-on experience in full-stack developmen
 
 - Develop full-stack applications with Python
 - Build and optimize machine learning models
-- Solve complex algorithmic problems (DSA)
 - Create web applications and automation scripts
 - Explore cutting-edge AI/ML techniques
 
@@ -27,7 +26,7 @@ I'm an aspiring AI/ML engineer with hands-on experience in full-stack developmen
 - **Deep Learning:** PyTorch
 - **Visualization:** Matplotlib, Seaborn
 - **Web:** Flask
-- **Others:** OpenCV (Basic)
+- **Others:** HTML/CSS (Fundamentals)
 
 ### Tools & Platforms
 - Git & GitHub
