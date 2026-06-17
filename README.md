@@ -26,7 +26,6 @@ I'm an aspiring AI/ML engineer with hands-on experience in full-stack developmen
 - **Deep Learning:** PyTorch
 - **Visualization:** Matplotlib, Seaborn
 - **Web:** Flask
-- **Others:** HTML/CSS (Fundamentals)
 
 ### Tools & Platforms
 - Git & GitHub
